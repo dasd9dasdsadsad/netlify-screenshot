@@ -1,4 +1,4 @@
-const chromium = require("@sparticuz/chromium")
+const chromium = require("@sparti
 const defaults = require("lodash.defaults")
 const puppeteer = require("puppeteer-core")
 const qs = require("qs")
